@@ -1,0 +1,1 @@
+{"config":{"system_prompt":"","model":"","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"Provide a structure for a multi-module Android app using Clean Architecture.","md5":"1c97fb59111784ba2a0fe64a4ec5804f"}]}
